@@ -1,3 +1,6 @@
-# Advent Of Code 2022
+# Advent Of Code
 
-https://adventofcode.com/2022/day/1
+My own solutions to the Advent of Code challenges, in programming languages I'm
+not comfortable with.
+
+https://adventofcode.com
